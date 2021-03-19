@@ -2,6 +2,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-yoneda&show_icons=true&theme=gotham)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-yoneda)](https://github.com/tiago-yoneda/github-readme-stats)
 <!--
 **tiago-yoneda/tiago-yoneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
