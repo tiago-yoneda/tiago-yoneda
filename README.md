@@ -5,7 +5,7 @@ I started learning to code on November/2020 when I joined Trybe, a big startup t
 
 So far I've only been coding for Trybe's projects, but I do plan to do some personal projects.
 
-I already have finished my Front-End module - In which I learned React (components, events and states, life cicles, router and TRL tests, also redux, contextAPI and React Hooks).
+I have already finished my Front-End module - In which I learned React (components, events and states, life cicles, router and TRL tests, also redux, contextAPI and React Hooks).
 
 Currently I'm learning to manipulate databases using MYSQL Workbench in the Back-end module.
 
