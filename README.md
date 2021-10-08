@@ -5,6 +5,8 @@ I started learning to code on November/2020 when I joined Trybe, a big startup t
 
 So far I've only been coding for Trybe's projects, but I do plan to do some personal projects.
 
+Link to my simple portifolio (https://tiago-yoneda.github.io/)
+
 # What I have learned so far:
  - Module 1 - Unix & Bash, Git, JS ES6, DOM, HTML & CSS, HoFs and Unit tests
 
