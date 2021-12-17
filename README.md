@@ -25,6 +25,7 @@ Visit : https://tiago-yoneda.github.io/ for projects and certificates
 - Working as a Full Stack Web Developer at Meliuz
 - Learning React Native at Udemy
 - Studying the intro computer science course at (https://cc50.estudarfora.org.br/)
+- Studying React Native at Gama Academy
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-yoneda&show_icons=true&theme=gotham)
 
