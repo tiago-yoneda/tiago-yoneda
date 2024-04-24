@@ -22,7 +22,7 @@ Visit : https://tiago-yoneda.github.io/ for projects and certificates
 
 # What I am doing
 
-- Working as a Full Stack Web Developer at Meliuz
+- Working as a Mobile developer (Android/iOS) at Meliuz
 - Learning React Native at Udemy
 - Studying the intro computer science course at (https://cc50.estudarfora.org.br/)
 
